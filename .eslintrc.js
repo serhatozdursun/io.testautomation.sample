@@ -2,7 +2,9 @@ const defaultRules = {
   '@typescript-eslint/prefer-ts-expect-error': 'warn',
   '@typescript-eslint/ban-ts-comment': 'off',
   '@typescript-eslint/restrict-template-expressions': 'warn',
-  '@typescript-eslint/no-misused-promises': 'warn'
+  '@typescript-eslint/no-misused-promises': 'warn',
+  '@typescript-eslint/no-extraneous-class': 'warn',
+  '@typescript-eslint/strict-boolean-expressions': 'warn'
 };
 module.exports = {
   env: {

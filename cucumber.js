@@ -25,6 +25,6 @@ module.exports = {
     requireModule: ['ts-node/register'],
     publishQuiet: false,
     publish: true,
-    retry :1
+    retry: 1
   }
 };
