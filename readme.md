@@ -16,4 +16,4 @@ It may be managed with cucumber parameters, will see :)
 
 ## Feedbacks
 
-If you have any feedback for me please share it because I'm so junior in TS.
+If you have any feedback for me please share it because I'm so fresh in TS and eager to improve that skill.
