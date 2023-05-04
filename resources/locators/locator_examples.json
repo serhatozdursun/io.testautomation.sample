@@ -2,5 +2,9 @@
   "search_box": {
     "type": "name",
     "value": "q"
+  },
+  "results": {
+    "type": "css",
+    "value": ".yuRUbf a"
   }
 }

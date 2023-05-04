@@ -1,0 +1,41 @@
+# OSX
+.DS_Store
+# IDEs
+.vscode/
+.idea/
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+**/yarn-error.log
+# compiled
+tsconfig.tsbuildinfo
+dist/
+build/
+# Test
+coverage/
+#env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.tsbuildinfo
+.terraform/
+terraform.*
+.terraform.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.local.ts
+*.log
+*.local.sh
+
+app/
+app/**
+
+report
+report/cucumber-report.html
+.eslintcache
+
+image
