@@ -28,5 +28,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - name: run tests    
-      run: npx cucumber-js -p default
+    - run: yarn install
+    - run: npx cucumber-js -p default
